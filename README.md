@@ -3,6 +3,9 @@
 A companion tool for Frida used to gather information on Android applications. 
 The resulting output file is JSON which can be easily parsed by other applications.
 
+
+For a quick overview of the project, see the blog post on [vvect.xyz](https://vvect.xyz/posts/rwrt/)
+
 ## Getting started
 
 ```sh
